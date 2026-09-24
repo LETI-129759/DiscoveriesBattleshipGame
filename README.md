@@ -17,7 +17,7 @@ A **caravela** foi a embarcação fundamental nos primórdios da expansão marí
 
 * **Artigo na Wikipédia:** [Caravela (Wikipédia)](https://pt.wikipedia.org/wiki/Caravela)
 
-![Caravela](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caravel_Bartholomeu_Dias_descendents_1988_002.jpg/400px-Caravel_Bartholomeu_Dias_descendents_1988_002.jpg)
+<img width="500" height="724" alt="image" src="https://github.com/user-attachments/assets/6b3f4206-4b4c-4b4a-8652-5df90905f909" />
 
 ---
 
@@ -26,7 +26,8 @@ A **nau** era uma embarcação de grande porte, com velas redondas e estrutura r
 
 * **Artigo na Wikipédia:** [Nau (Wikipédia)](https://pt.wikipedia.org/wiki/Nau)
 
-![Nau São Gabriel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S%C3%A3o_Gabriel_by_G_Sanz.jpg/400px-S%C3%A3o_Gabriel_by_G_Sanz.jpg)
+<img width="500" height="667" alt="image" src="https://github.com/user-attachments/assets/9d04f7f3-9fb6-4ad2-804a-fc188f604e96" />
+
 
 ---
 
@@ -35,7 +36,8 @@ O **galeão** era uma nave armada de grande porte, desenvolvida a partir do séc
 
 * **Artigo na Wikipédia:** [Galeão (Wikipédia)](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 
-![Galeão](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Galleon_model.jpg/400px-Galleon_model.jpg)
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/faa1ec62-8ce0-47de-8aca-5b5eee271aa5" />
+
 
 ---
 
@@ -44,7 +46,8 @@ A **galé** era uma embarcação movida principalmente a remos, utilizada sobret
 
 * **Artigo na Wikipédia:** [Galé (Wikipédia)](https://pt.wikipedia.org/wiki/Gal%C3%A9)
 
-![Galé](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Galleys_battle_lepanto.jpg/400px-Galleys_battle_lepanto.jpg)
+<img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/09d5b4d7-eb74-442a-8902-786015b8a6f5" />
+
 
 ---
 
@@ -52,5 +55,5 @@ A **galé** era uma embarcação movida principalmente a remos, utilizada sobret
 A **barca** foi um dos primeiros tipos de embarcação utilizados no início das navegações portuguesas no século XV. Tinha apenas um mástil com uma vela quadrangular e era adequada para a navegação costeira. Foi numa barca que Gil Eanes dobrou o Cabo Bojador em 1434.
 
 * **Artigo na Wikipédia:** [Barca (Wikipédia)](https://pt.wikipedia.org/wiki/Barca)
+<img width="2665" height="1772" alt="image" src="https://github.com/user-attachments/assets/9e1719f9-3206-495f-a16f-9de2e4115909" />
 
-![Barca](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Barca_portuguesa_sec_XV.jpg/400px-Barca_portuguesa_sec_XV.jpg)
