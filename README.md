@@ -74,8 +74,12 @@ A **galé** era uma embarcação movida principalmente a remos, utilizada sobret
 ---
 
 ### 5. Barca
+
 A **barca** foi um dos primeiros tipos de embarcação utilizados no início das navegações portuguesas no século XV. Tinha apenas um mástil com uma vela quadrangular e era adequada para a navegação costeira. Foi numa barca que Gil Eanes dobrou o Cabo Bojador em 1434.
 
 * **Artigo na Wikipédia:** [Barca (Wikipédia)](https://pt.wikipedia.org/wiki/Barca)
 <img width="500" height="386" alt="image" src="https://github.com/user-attachments/assets/9e1719f9-3206-495f-a16f-9de2e4115909" />
 
+## Erros
+
+<img width="1000" height="772" alt="image" src="https://github.com/user-attachments/assets/9ecebec7-6a78-4882-949b-3e7ccce1aa7d" />
