@@ -83,3 +83,8 @@ A **barca** foi um dos primeiros tipos de embarcação utilizados no início das
 ## Erros
 
 <img width="1000" height="772" alt="image" src="https://github.com/user-attachments/assets/9ecebec7-6a78-4882-949b-3e7ccce1aa7d" />
+<img width="1448" height="217" alt="image" src="https://github.com/user-attachments/assets/716699eb-c620-41fc-bc22-81de98e3cec7" />
+
+
+Pelo que deu para perceber, o GitHub não nos está a deixar usar actions devido a uma "billing issue", não conseguimos perceber como resolver o problema, mas dá para perceber pelos insights e pelos ficheiros do workflow que era suposto dar mas não dá
+
