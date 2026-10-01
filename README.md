@@ -1,6 +1,6 @@
 # Grupo: Paloco Tricolor
 
-## Membros do Grupo
+## Membros do Grupo TP01-2
 
 | Número | Nome Completo | Curso |
 | :--- | :--- | :--- |
